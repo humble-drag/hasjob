@@ -1,4 +1,5 @@
 import os.path
+import requests
 
 from flask import Flask
 from flask_assets import Bundle
